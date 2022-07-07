@@ -1,5 +1,5 @@
 # djanbook
-DjanBook is a blog, where users can create, update and delete posts. It is also possible to upload or update personal account information (username, email, profile picture).
+DjanBook is a website where users can create, update and delete posts. It is also possible to upload or update personal account information (username, email, profile picture).
 ## Project Overview
 The website is written in Django Framework. The design is implemented using Bootstrap. 
 ### Installation and Setup
